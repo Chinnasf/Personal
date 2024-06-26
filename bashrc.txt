@@ -1,0 +1,14 @@
+#### Important stuff
+
+unset __conda_setup
+# <<< conda initialize <<<
+alias "jpnb"=" ~/.local/bin/jupyter-notebook"
+alias "cthe"="conda activate thesis"
+alias "ggit"="cd /home/kchinas/kGitHub"
+alias "cnb"="jupyter notebook"
+alias "cdlps"="cd Documents/PhD/LAMMPS/"
+alias "ovito"="/home/kchinas/Apps/ovito-basic-3.10.4-x86_64/./bin/ovito"
+alias "avogadro"="/home/kchinas/Apps/openchemistry/openchemistry-build/prefix/./bin/avogadro2"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Library/TeX/texbin:/usr/local/share/dot"
+export PATH=/home/kchinas/Apps/lammps-2Aug2023/build:$PATH
+alias "amolt"="source ~/Apps/moltemplate/venv/bin/activate" # activate moltemplate 
