@@ -12,3 +12,4 @@ alias "avogadro"="/home/kchinas/Apps/openchemistry/openchemistry-build/prefix/./
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Library/TeX/texbin:/usr/local/share/dot"
 export PATH=/home/kchinas/Apps/lammps-2Aug2023/build:$PATH
 alias "amolt"="source ~/Apps/moltemplate/venv/bin/activate" # activate moltemplate 
+alias "pymol"="~/Apps/pymol/./pymol"
